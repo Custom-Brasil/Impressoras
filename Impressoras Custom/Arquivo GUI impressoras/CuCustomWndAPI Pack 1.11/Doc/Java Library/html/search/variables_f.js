@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['serialnumber_0',['SerialNumber',['../classcom_1_1custom_1_1wndapijwrap_1_1USBDevice.html#a08bf7b55b30177b5a0ab1728c84ab335',1,'com::custom::wndapijwrap::USBDevice']]],
+  ['statusbuffer_1',['StatusBuffer',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#af67cb2d4f5f22e22c664eba32246a51b',1,'com::custom::wndapijwrap::PrinterStatus']]],
+  ['statusdword_2',['StatusDWORD',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#a1bf87aaaf66141fe772684c602dd33ee',1,'com::custom::wndapijwrap::PrinterStatus']]],
+  ['stopbits_3',['StopBits',['../classcom_1_1custom_1_1wndapijwrap_1_1COMPort.html#a59568c6d625d86ee7ea0690e26bea266',1,'com::custom::wndapijwrap::COMPort']]],
+  ['stscuterror_4',['StsCUTERROR',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#a7055b2671263a3adb55133359ad2a3fa',1,'com::custom::wndapijwrap::PrinterStatus']]],
+  ['stseepromerror_5',['StsEEPROMERROR',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#adb308873ef386922db753b891a1d5507',1,'com::custom::wndapijwrap::PrinterStatus']]],
+  ['stsffpressed_6',['StsFFPRESSED',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#a068a8892044cf2353cb6aebb965591cb',1,'com::custom::wndapijwrap::PrinterStatus']]],
+  ['stshlvolt_7',['StsHLVOLT',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#a49c13e84aee3cbeb9f5153cba779bd1c',1,'com::custom::wndapijwrap::PrinterStatus']]],
+  ['stslfpressed_8',['StsLFPRESSED',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#a84e26941114f1b4297aea69365461682',1,'com::custom::wndapijwrap::PrinterStatus']]],
+  ['stsnearendpap_9',['StsNEARENDPAP',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#a1652fa98d47b8428af2a26d5b9136e9c',1,'com::custom::wndapijwrap::PrinterStatus']]],
+  ['stsnocover_10',['StsNOCOVER',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#ab3359dc3bb2bae6bbe2205a3605a0a35',1,'com::custom::wndapijwrap::PrinterStatus']]],
+  ['stsnohead_11',['StsNOHEAD',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#a088c8719dd38913a8d6bdefcb8e572f3',1,'com::custom::wndapijwrap::PrinterStatus']]],
+  ['stsnopaper_12',['StsNOPAPER',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#ab96e2bb01cd0ccf73f39a409a97bcdd4',1,'com::custom::wndapijwrap::PrinterStatus']]],
+  ['stsovertemp_13',['StsOVERTEMP',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#afc269143cae21a2a316d7bffebc98fbc',1,'com::custom::wndapijwrap::PrinterStatus']]],
+  ['stspaperjam_14',['StsPAPERJAM',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#a740bdc2f693257ac808dd84a11e09f12',1,'com::custom::wndapijwrap::PrinterStatus']]],
+  ['stspaperrolling_15',['StsPAPERROLLING',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#a99a982432d7de743a791ea1a646a4008',1,'com::custom::wndapijwrap::PrinterStatus']]],
+  ['stsramerror_16',['StsRAMERROR',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#a9e840b55577c8083f318b6b1aa28b54e',1,'com::custom::wndapijwrap::PrinterStatus']]],
+  ['stsspooling_17',['StsSPOOLING',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#a7b04b014f79f32eb827a9cc3ed99e7cf',1,'com::custom::wndapijwrap::PrinterStatus']]],
+  ['ststicketout_18',['StsTICKETOUT',['../classcom_1_1custom_1_1wndapijwrap_1_1PrinterStatus.html#a9aa322dc6883169a0cfbba291ea91d4b',1,'com::custom::wndapijwrap::PrinterStatus']]]
+];

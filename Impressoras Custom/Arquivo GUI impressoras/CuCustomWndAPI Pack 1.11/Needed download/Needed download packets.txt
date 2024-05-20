@@ -1,0 +1,16 @@
+To run the example software, you need to download and install on your system (if they are not already present on the system):
+
+- For the example software and .NET library:
+	Microsoft .NET Framework 4 
+	downloadable at:
+	https://www.microsoft.com/en-us/download/details.aspx?id=17718
+
+- For the communication library (for all the wrappers too):
+	Visual C++ Redistributable Packages for Visual Studio 2015 (x86 and x64)
+	downloadable at
+	https://www.microsoft.com/en-us/download/details.aspx?id=48145
+	
+- For the example software and Java library:
+	Java SE Development Kit 7u71 (7.0.71) (x86 and x64)
+	downloadable at:
+	https://www.oracle.com/it/java/technologies/javase/javase7-archive-downloads.html

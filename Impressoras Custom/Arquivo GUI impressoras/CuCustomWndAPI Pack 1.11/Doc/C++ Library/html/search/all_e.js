@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['setcapprintwidth_0',['SetCapPrintWidth',['../CuCustomWndAPI_8cpp.html#a7ba91557fe7c6eee7483cd3a023c87b7',1,'CuCustomWndAPI.cpp']]],
+  ['setgraphicstopmargin_1',['SetGraphicsTopMargin',['../CuCustomWndAPI_8cpp.html#ae368d18fd3fff7b09b81a63ffab3d53e',1,'CuCustomWndAPI.cpp']]],
+  ['setgrmodetoblackwhite_2',['SetGrModeToBlackWhite',['../CuCustomWndAPI_8cpp.html#a1c59f77912e60405d5658a25fd2bcc9c',1,'CuCustomWndAPI.cpp']]],
+  ['setignorewhiteimages_3',['SetIgnoreWhiteImages',['../CuCustomWndAPI_8cpp.html#ac658f2e6f3a70920f22d850892c6ed23',1,'CuCustomWndAPI.cpp']]],
+  ['setpagemodetoroll_4',['SetPageModeToRoll',['../CuCustomWndAPI_8cpp.html#ad01b451bce32e02ed2f2efcb4a68b3e4',1,'CuCustomWndAPI.cpp']]],
+  ['setvariable_5',['SetVariable',['../CuCustomWndAPI_8cpp.html#adeaf508f1401916b52a2c77aa9b0d8f5',1,'CuCustomWndAPI.cpp']]],
+  ['stscuterror_6',['stsCUTERROR',['../structPrinterStatusStruct.html#a7ec646178b46f5c66d79ade24fc9019b',1,'PrinterStatusStruct']]],
+  ['stseepromerror_7',['stsEEPROMERROR',['../structPrinterStatusStruct.html#ae29c0dc711f9972dbeead9a49ba08cd3',1,'PrinterStatusStruct']]],
+  ['stsffpressed_8',['stsFFPRESSED',['../structPrinterStatusStruct.html#a89972915e3711702f588753eeb7ae793',1,'PrinterStatusStruct']]],
+  ['stshlvolt_9',['stsHLVOLT',['../structPrinterStatusStruct.html#a71ae3b14aaca3e72a71f697901ab834f',1,'PrinterStatusStruct']]],
+  ['stslfpressed_10',['stsLFPRESSED',['../structPrinterStatusStruct.html#a1b6070b02897577112371f66557ef2d7',1,'PrinterStatusStruct']]],
+  ['stsnearendpap_11',['stsNEARENDPAP',['../structPrinterStatusStruct.html#abf4c3c6203a88f9d532ae6d9bad6ae65',1,'PrinterStatusStruct']]],
+  ['stsnocover_12',['stsNOCOVER',['../structPrinterStatusStruct.html#a9a70455ddd1ae621fd0103372808706f',1,'PrinterStatusStruct']]],
+  ['stsnohead_13',['stsNOHEAD',['../structPrinterStatusStruct.html#a5851d407c179cd1e9d78e0c7de62f9ac',1,'PrinterStatusStruct']]],
+  ['stsnopaper_14',['stsNOPAPER',['../structPrinterStatusStruct.html#a4bb2823116d746c16319043d2151102a',1,'PrinterStatusStruct']]],
+  ['stsovertemp_15',['stsOVERTEMP',['../structPrinterStatusStruct.html#ad772b42b4eef8916720b55fcf760e91e',1,'PrinterStatusStruct']]],
+  ['stspaperjam_16',['stsPAPERJAM',['../structPrinterStatusStruct.html#aa0adc5aef5ff646b667ca65bb8f48043',1,'PrinterStatusStruct']]],
+  ['stspaperrolling_17',['stsPAPERROLLING',['../structPrinterStatusStruct.html#a327128881bac6fb181b3059967a75cbe',1,'PrinterStatusStruct']]],
+  ['stsramerror_18',['stsRAMERROR',['../structPrinterStatusStruct.html#a780a35042243830bd6942961ceabfb85',1,'PrinterStatusStruct']]],
+  ['stsspooling_19',['stsSPOOLING',['../structPrinterStatusStruct.html#a60686314a0f019d159ea0571f21381f9',1,'PrinterStatusStruct']]],
+  ['ststicketout_20',['stsTICKETOUT',['../structPrinterStatusStruct.html#a27898beb7c8ca0b89ba99bb9df6447bf',1,'PrinterStatusStruct']]]
+];

@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['palign_5fcut_0',['PALIGN_CUT',['../ccw__Types_8h.html#afd65be0fd40dd45209f44ab3da1c357fa7fe889978b2e057469c39d275547a28b',1,'ccw_Types.h']]],
+  ['palign_5fprint_1',['PALIGN_PRINT',['../ccw__Types_8h.html#afd65be0fd40dd45209f44ab3da1c357faad6c21844ba3bf5919e11096ce82d106',1,'ccw_Types.h']]],
+  ['paperaligntype_2',['PaperAlignType',['../ccw__Types_8h.html#afd65be0fd40dd45209f44ab3da1c357f',1,'ccw_Types.h']]],
+  ['present_3',['Present',['../CuCustomWndAPI_8cpp.html#a875327253a017b3056d453898202bd05',1,'CuCustomWndAPI.cpp']]],
+  ['printbarcodebuffer_4',['PrintBarcodeBuffer',['../CuCustomWndAPI_8cpp.html#a7a65687fd24218cc6637729dcc312328',1,'CuCustomWndAPI.cpp']]],
+  ['printbarcodestring_5',['PrintBarcodeString',['../CuCustomWndAPI_8cpp.html#a7c6a0537be2f6e59d20d3ba2b0a84ba0',1,'CuCustomWndAPI.cpp']]],
+  ['printbarcodestruct_6',['PrintBarcodeStruct',['../structPrintBarcodeStruct.html',1,'']]],
+  ['printbarcodestruct_5finit_7',['PRINTBARCODESTRUCT_INIT',['../ccw__Types_8h.html#a786364b12130873938d369ef06c6667c',1,'ccw_Types.h']]],
+  ['printerisready_8',['PrinterIsReady',['../CuCustomWndAPI_8cpp.html#a3a92b1c06bfdf41b8fc45be3536713ca',1,'CuCustomWndAPI.cpp']]],
+  ['printerstatusstruct_9',['PrinterStatusStruct',['../structPrinterStatusStruct.html',1,'']]],
+  ['printerstatusstructtotext_10',['PrinterStatusStructToText',['../ccw__Status_8h.html#a0c3720aed06dbc0f426af4fe96a5b06a',1,'ccw_Status.h']]],
+  ['printerstruct_11',['PrinterStruct',['../structPrinterStruct.html',1,'']]],
+  ['printfontstruct_12',['PrintFontStruct',['../structPrintFontStruct.html',1,'']]],
+  ['printfontstruct_5finit_13',['PRINTFONTSTRUCT_INIT',['../ccw__Types_8h.html#a0fc6b2bd25657fdc7d9d7ff42b89b1f8',1,'ccw_Types.h']]],
+  ['printimagefrompath_14',['PrintImageFromPath',['../CuCustomWndAPI_8cpp.html#ab869be24b02f48added5393432f4bd07',1,'CuCustomWndAPI.cpp']]],
+  ['printimagestruct_15',['PrintImageStruct',['../structPrintImageStruct.html',1,'']]],
+  ['printimagestruct_5finit_16',['PRINTIMAGESTRUCT_INIT',['../ccw__Types_8h.html#a67d0cf9c69df2cb8234c38e44993f8af',1,'ccw_Types.h']]],
+  ['printrawimage_17',['PrintRawImage',['../CuCustomWndAPI_8cpp.html#ac32a810f0f3cdc8a2b373bb2a0115ab9',1,'CuCustomWndAPI.cpp']]],
+  ['printscalemode_18',['printScaleMode',['../structPrintImageStruct.html#a90ca00a3b3a98365805073f4954b9349',1,'PrintImageStruct']]],
+  ['printscalewidthvalue_19',['printScaleWidthValue',['../structPrintImageStruct.html#ac6c600e9b6d42739ff46cc4835bbc16f',1,'PrintImageStruct']]],
+  ['printtext_20',['PrintText',['../CuCustomWndAPI_8cpp.html#aecd17e3a6c92991c4bd848e073563792',1,'CuCustomWndAPI.cpp']]],
+  ['printtextex_21',['PrintTextEx',['../CuCustomWndAPI_8cpp.html#a01f6bcaeab79764e064b87c628494460',1,'CuCustomWndAPI.cpp']]],
+  ['printtextutf8_22',['PrintTextUTF8',['../CuCustomWndAPI_8cpp.html#a7928d056d02c0fd03f8cd05d91735ea3',1,'CuCustomWndAPI.cpp']]],
+  ['printtextutf8ex_23',['PrintTextUTF8Ex',['../CuCustomWndAPI_8cpp.html#a7a4a6b884254b923d35c344b4d7472fb',1,'CuCustomWndAPI.cpp']]],
+  ['printwidth_24',['printWidth',['../structPrintFontStruct.html#ae2fb2176898befa9f0ea1595b69a0624',1,'PrintFontStruct']]]
+];

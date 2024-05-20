@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['serialnumber_0',['SerialNumber',['../classCustom_1_1CuCustomWndAPI_1_1USBDevice.html#a911b7fbb6cf958fb4481686676826691',1,'Custom::CuCustomWndAPI::USBDevice']]],
+  ['statusbuffer_1',['StatusBuffer',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#a9432c4ec26ea9c9c05156440376f4d44',1,'Custom::CuCustomWndAPI::PrinterStatus']]],
+  ['statusdword_2',['StatusDWORD',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#ab5381174dc7db094711a4a5ae3fef0ae',1,'Custom::CuCustomWndAPI::PrinterStatus']]],
+  ['stopbits_3',['StopBits',['../classCustom_1_1CuCustomWndAPI_1_1COMPort.html#a2cf2974f9c852aa739578d43d3d80663',1,'Custom::CuCustomWndAPI::COMPort']]],
+  ['stscuterror_4',['StsCUTERROR',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#ade58ec93f0141b0e2ed8038c4aae87ad',1,'Custom::CuCustomWndAPI::PrinterStatus']]],
+  ['stseepromerror_5',['StsEEPROMERROR',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#a9c8d39cd30bc77d23596e8c319edfc45',1,'Custom::CuCustomWndAPI::PrinterStatus']]],
+  ['stsffpressed_6',['StsFFPRESSED',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#a829a9c9c222aa5abef48efc8dc1a4bc0',1,'Custom::CuCustomWndAPI::PrinterStatus']]],
+  ['stshlvolt_7',['StsHLVOLT',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#a20a2d66e75937fb1b8175830c7cdb661',1,'Custom::CuCustomWndAPI::PrinterStatus']]],
+  ['stslfpressed_8',['StsLFPRESSED',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#a9e34c48cf45043163b612327313e5508',1,'Custom::CuCustomWndAPI::PrinterStatus']]],
+  ['stsnearendpap_9',['StsNEARENDPAP',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#a18232674122eb14fac40baf23c491889',1,'Custom::CuCustomWndAPI::PrinterStatus']]],
+  ['stsnocover_10',['StsNOCOVER',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#a42e844acf043f3b6860bf8a5d7704ab4',1,'Custom::CuCustomWndAPI::PrinterStatus']]],
+  ['stsnohead_11',['StsNOHEAD',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#a5e372530707ad4608793754c8ba5394c',1,'Custom::CuCustomWndAPI::PrinterStatus']]],
+  ['stsnopaper_12',['StsNOPAPER',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#a9f45ac65ab2d858549a4195da375068f',1,'Custom::CuCustomWndAPI::PrinterStatus']]],
+  ['stsovertemp_13',['StsOVERTEMP',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#a4eb4ef59c72228cca54fef5c04cd5d23',1,'Custom::CuCustomWndAPI::PrinterStatus']]],
+  ['stspaperjam_14',['StsPAPERJAM',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#a87d5703e36492f5ec37cf80859a786fa',1,'Custom::CuCustomWndAPI::PrinterStatus']]],
+  ['stspaperrolling_15',['StsPAPERROLLING',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#ae8744148c5ece4bcecccd7602f561741',1,'Custom::CuCustomWndAPI::PrinterStatus']]],
+  ['stsramerror_16',['StsRAMERROR',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#ae763ad90590454a76672943c3e8fcbc3',1,'Custom::CuCustomWndAPI::PrinterStatus']]],
+  ['stsspooling_17',['StsSPOOLING',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#a2676b6475e029ecb24e07b62c89e1414',1,'Custom::CuCustomWndAPI::PrinterStatus']]],
+  ['ststicketout_18',['StsTICKETOUT',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html#a0245cf3c829b6390570ccc0f438d3fee',1,'Custom::CuCustomWndAPI::PrinterStatus']]]
+];

@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['flowcontrol_0',['FlowControl',['../classcom_1_1custom_1_1wndapijwrap_1_1COMPort.html#a40e8c273665ebf67c5374cc03f029764',1,'com::custom::wndapijwrap::COMPort']]],
+  ['font_5fcs_5fdefault_1',['FONT_CS_DEFAULT',['../enumcom_1_1custom_1_1wndapijwrap_1_1PrintFontSettings_1_1FontInternationalCharset.html#ac1d802eb0a37388915330e756898c70d',1,'com::custom::wndapijwrap::PrintFontSettings::FontInternationalCharset']]],
+  ['font_5fjustification_5fcenter_2',['FONT_JUSTIFICATION_CENTER',['../enumcom_1_1custom_1_1wndapijwrap_1_1PrintFontSettings_1_1FontJustification.html#aee0b65ec4e314f5810eccb7fc85210c9',1,'com::custom::wndapijwrap::PrintFontSettings::FontJustification']]],
+  ['font_5fjustification_5fleft_3',['FONT_JUSTIFICATION_LEFT',['../enumcom_1_1custom_1_1wndapijwrap_1_1PrintFontSettings_1_1FontJustification.html#a3197cff12005af513e445d647b35bdf2',1,'com::custom::wndapijwrap::PrintFontSettings::FontJustification']]],
+  ['font_5fjustification_5fright_4',['FONT_JUSTIFICATION_RIGHT',['../enumcom_1_1custom_1_1wndapijwrap_1_1PrintFontSettings_1_1FontJustification.html#a955b82f83dbb04aedaa9cdfe00bba4c2',1,'com::custom::wndapijwrap::PrintFontSettings::FontJustification']]],
+  ['font_5fsize_5fx1_5',['FONT_SIZE_X1',['../enumcom_1_1custom_1_1wndapijwrap_1_1PrintFontSettings_1_1FontSize.html#aab40e94b0049f69ec9d2956ae618efe9',1,'com::custom::wndapijwrap::PrintFontSettings::FontSize']]],
+  ['font_5fsize_5fx2_6',['FONT_SIZE_X2',['../enumcom_1_1custom_1_1wndapijwrap_1_1PrintFontSettings_1_1FontSize.html#afc3fbff19dac331aca34b631e47211cd',1,'com::custom::wndapijwrap::PrintFontSettings::FontSize']]],
+  ['font_5fsize_5fx3_7',['FONT_SIZE_X3',['../enumcom_1_1custom_1_1wndapijwrap_1_1PrintFontSettings_1_1FontSize.html#ab758fc575ca08ee798968427a0e50ef3',1,'com::custom::wndapijwrap::PrintFontSettings::FontSize']]],
+  ['font_5fsize_5fx4_8',['FONT_SIZE_X4',['../enumcom_1_1custom_1_1wndapijwrap_1_1PrintFontSettings_1_1FontSize.html#a35d2e5024751ade8791f7a111a3b28a6',1,'com::custom::wndapijwrap::PrintFontSettings::FontSize']]],
+  ['font_5fsize_5fx5_9',['FONT_SIZE_X5',['../enumcom_1_1custom_1_1wndapijwrap_1_1PrintFontSettings_1_1FontSize.html#abd5402e5f2e1307133b947c80976b7d6',1,'com::custom::wndapijwrap::PrintFontSettings::FontSize']]],
+  ['font_5fsize_5fx6_10',['FONT_SIZE_X6',['../enumcom_1_1custom_1_1wndapijwrap_1_1PrintFontSettings_1_1FontSize.html#a614fec4ffdb436d4e14fa09ecfef7f81',1,'com::custom::wndapijwrap::PrintFontSettings::FontSize']]],
+  ['font_5fsize_5fx7_11',['FONT_SIZE_X7',['../enumcom_1_1custom_1_1wndapijwrap_1_1PrintFontSettings_1_1FontSize.html#a782d96b1ad16a90263f1fb680cf38188',1,'com::custom::wndapijwrap::PrintFontSettings::FontSize']]],
+  ['font_5fsize_5fx8_12',['FONT_SIZE_X8',['../enumcom_1_1custom_1_1wndapijwrap_1_1PrintFontSettings_1_1FontSize.html#ab2924dc162fd9afb1323d5d46719befd',1,'com::custom::wndapijwrap::PrintFontSettings::FontSize']]],
+  ['font_5ftype_5f1_13',['FONT_TYPE_1',['../enumcom_1_1custom_1_1wndapijwrap_1_1PrintFontSettings_1_1FontType.html#a7d80ebaef2e5158f8a24d505e180aae2',1,'com::custom::wndapijwrap::PrintFontSettings::FontType']]],
+  ['font_5ftype_5f2_14',['FONT_TYPE_2',['../enumcom_1_1custom_1_1wndapijwrap_1_1PrintFontSettings_1_1FontType.html#aac2e05f51022aa0e960e1cf8222a29ff',1,'com::custom::wndapijwrap::PrintFontSettings::FontType']]],
+  ['font_5ftype_5f3_15',['FONT_TYPE_3',['../enumcom_1_1custom_1_1wndapijwrap_1_1PrintFontSettings_1_1FontType.html#a956ca678b6bd1f0ebe76e3b58be5d879',1,'com::custom::wndapijwrap::PrintFontSettings::FontType']]],
+  ['font_5ftype_5f4_16',['FONT_TYPE_4',['../enumcom_1_1custom_1_1wndapijwrap_1_1PrintFontSettings_1_1FontType.html#a72b32d75b1047e96525d560ad05e75af',1,'com::custom::wndapijwrap::PrintFontSettings::FontType']]]
+];

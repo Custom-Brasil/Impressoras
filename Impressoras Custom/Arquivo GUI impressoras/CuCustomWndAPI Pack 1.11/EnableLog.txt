@@ -1,0 +1,33 @@
+There are two ways to set the log verbosity level.
+
+To modify log settings you can create a key in regedit with the following steps:
+
+1) Open regedit
+
+2) Create the key "HKEY_LOCAL_MACHINE\SOFTWARE\CUSTOM\CuCustomWndAPI"
+
+3) In this key create a DWORD (32-bit) Value and call it "Verbosity"
+
+4) Modify the key with a number between 0 and 7, it represents the followig log verbosity level:
+	
+	Level: 0 -> Log completely disabled
+	Level: 1 -> Only log fatal errors
+	Level: 2 -> (normal) Log errors. Program will continue
+	Level: 3 -> Also log warning - something suspicious occured
+	Level: 4 -> Also log hints and informational messages
+	Level: 5 -> Log functions methods messages
+	Level: 6 -> Log all messages, also debug messages. Use only if required
+	Level: 7 -> Log all messages, also deep debug messages. Use only if required. Could slow down the communication
+
+
+Otherwhise you can create a .cfg file in the same folder where the library is located.
+This file must named as "CuCustomWndAPI.dll.cfg" and to set the verbosity log level you have to write:
+
+[Log settings]
+Verbosity=n
+
+n is a number between 0 and 7 and define the verbosity log level.
+
+
+IMPORTANT: If you declare both of these settings sytem you must know that only the .cfg file settings will be applied
+

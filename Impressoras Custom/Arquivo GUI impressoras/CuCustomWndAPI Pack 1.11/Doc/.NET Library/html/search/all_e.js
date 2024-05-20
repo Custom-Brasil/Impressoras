@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['palign_5fcut_0',['PALIGN_CUT',['../classCustom_1_1CuCustomWndAPI_1_1CuCustomWndDevice.html#af39e07c27e16026a6810f3201f2428adab04205a7f38b4e7d69166ab10e96e92b',1,'Custom::CuCustomWndAPI::CuCustomWndDevice']]],
+  ['palign_5fprint_1',['PALIGN_PRINT',['../classCustom_1_1CuCustomWndAPI_1_1CuCustomWndDevice.html#af39e07c27e16026a6810f3201f2428ada87280c21d28b56b67b94467920b4b60c',1,'Custom::CuCustomWndAPI::CuCustomWndDevice']]],
+  ['paperaligntype_2',['PaperAlignType',['../classCustom_1_1CuCustomWndAPI_1_1CuCustomWndDevice.html#af39e07c27e16026a6810f3201f2428ad',1,'Custom::CuCustomWndAPI::CuCustomWndDevice']]],
+  ['parity_3',['Parity',['../classCustom_1_1CuCustomWndAPI_1_1COMPort.html#ac29bf3208ed43db26b8c47e354b82e89',1,'Custom::CuCustomWndAPI::COMPort']]],
+  ['pid_4',['PID',['../classCustom_1_1CuCustomWndAPI_1_1USBDevice.html#a1b7ed0439193d2dfd9df1107274baefa',1,'Custom::CuCustomWndAPI::USBDevice']]],
+  ['port_5',['Port',['../classCustom_1_1CuCustomWndAPI_1_1COMPort.html#a7b98c9cd23467ee2311a2a9e99d13a1d',1,'Custom::CuCustomWndAPI::COMPort']]],
+  ['present_6',['Present',['../classCustom_1_1CuCustomWndAPI_1_1CuCustomWndDevice.html#a19c40f6871d050323c40625fe7a8f400',1,'Custom::CuCustomWndAPI::CuCustomWndDevice']]],
+  ['printbarcode_7',['PrintBarcode',['../classCustom_1_1CuCustomWndAPI_1_1CuCustomWndDevice.html#a03450610c06c07608e0528987387de9e',1,'Custom.CuCustomWndAPI.CuCustomWndDevice.PrintBarcode(String strBrcText, PrintBarcodeSettings printBarcode)'],['../classCustom_1_1CuCustomWndAPI_1_1CuCustomWndDevice.html#a21809083af70a6ac7e21e5c95046f0c7',1,'Custom.CuCustomWndAPI.CuCustomWndDevice.PrintBarcode(byte[] bBrcBuffer, PrintBarcodeSettings printBarcode)']]],
+  ['printbarcodesettings_8',['PrintBarcodeSettings',['../classCustom_1_1CuCustomWndAPI_1_1PrintBarcodeSettings.html',1,'Custom.CuCustomWndAPI.PrintBarcodeSettings'],['../classCustom_1_1CuCustomWndAPI_1_1PrintBarcodeSettings.html#a9f6e0d5be4b2c61076b774d3c08d4b11',1,'Custom.CuCustomWndAPI.PrintBarcodeSettings.PrintBarcodeSettings()']]],
+  ['printbitmapimage_9',['PrintBitmapImage',['../classCustom_1_1CuCustomWndAPI_1_1CuCustomWndDevice.html#aa2bd2b70161249064adf6b1503e6d975',1,'Custom::CuCustomWndAPI::CuCustomWndDevice']]],
+  ['printerinfo_10',['PrinterInfo',['../classCustom_1_1CuCustomWndAPI_1_1PrinterInfo.html',1,'Custom::CuCustomWndAPI']]],
+  ['printerisready_11',['PrinterIsReady',['../classCustom_1_1CuCustomWndAPI_1_1CuCustomWndDevice.html#ad77686fd0dc9f91fb88ffc1b87923874',1,'Custom::CuCustomWndAPI::CuCustomWndDevice']]],
+  ['printername_12',['PrinterName',['../classCustom_1_1CuCustomWndAPI_1_1PrinterInfo.html#a4658f5680c652bdaa6d6ffaa84e7788d',1,'Custom.CuCustomWndAPI.PrinterInfo.PrinterName'],['../classCustom_1_1CuCustomWndAPI_1_1USBDevice.html#a3ac4d969a5b76a1ae357be8ce7a635c5',1,'Custom.CuCustomWndAPI.USBDevice.PrinterName']]],
+  ['printeronline_13',['PrinterOnline',['../classCustom_1_1CuCustomWndAPI_1_1PrinterInfo.html#ac35ba8a37a68b69a5fb505297c58103b',1,'Custom::CuCustomWndAPI::PrinterInfo']]],
+  ['printerstatus_14',['PrinterStatus',['../classCustom_1_1CuCustomWndAPI_1_1PrinterStatus.html',1,'Custom::CuCustomWndAPI']]],
+  ['printfontsettings_15',['PrintFontSettings',['../classCustom_1_1CuCustomWndAPI_1_1PrintFontSettings.html',1,'Custom.CuCustomWndAPI.PrintFontSettings'],['../classCustom_1_1CuCustomWndAPI_1_1PrintFontSettings.html#a64399ed29ccd73a9db2a52db38768ff1',1,'Custom.CuCustomWndAPI.PrintFontSettings.PrintFontSettings()']]],
+  ['printimagefrompath_16',['PrintImageFromPath',['../classCustom_1_1CuCustomWndAPI_1_1CuCustomWndDevice.html#ab16db5a8418287f88db291982f876144',1,'Custom::CuCustomWndAPI::CuCustomWndDevice']]],
+  ['printimagesettings_17',['PrintImageSettings',['../classCustom_1_1CuCustomWndAPI_1_1PrintImageSettings.html',1,'Custom.CuCustomWndAPI.PrintImageSettings'],['../classCustom_1_1CuCustomWndAPI_1_1PrintImageSettings.html#a740f162861a0d5454fec229fa70f5aea',1,'Custom.CuCustomWndAPI.PrintImageSettings.PrintImageSettings()']]],
+  ['printrawimage_18',['PrintRawImage',['../classCustom_1_1CuCustomWndAPI_1_1CuCustomWndDevice.html#a149f46e413f55d05bc2997c3c0e2e807',1,'Custom::CuCustomWndAPI::CuCustomWndDevice']]],
+  ['printscalemode_19',['PrintScaleMode',['../classCustom_1_1CuCustomWndAPI_1_1PrintImageSettings.html#ad7f1c6c3d2f193cf10a4edbd00ca1e7e',1,'Custom::CuCustomWndAPI::PrintImageSettings']]],
+  ['printscalewidthvalue_20',['PrintScaleWidthValue',['../classCustom_1_1CuCustomWndAPI_1_1PrintImageSettings.html#aa536dadec292f174d81e0589b1aee8f2',1,'Custom::CuCustomWndAPI::PrintImageSettings']]],
+  ['printtext_21',['PrintText',['../classCustom_1_1CuCustomWndAPI_1_1CuCustomWndDevice.html#ac1c697d3f176d605a9f8d98e82b0b109',1,'Custom.CuCustomWndAPI.CuCustomWndDevice.PrintText(String strText, bool bAddLF=false)'],['../classCustom_1_1CuCustomWndAPI_1_1CuCustomWndDevice.html#a828478b57b09fcfd77141a97539f0387',1,'Custom.CuCustomWndAPI.CuCustomWndDevice.PrintText(String strText, PrintFontSettings printFont, bool bAddLF=false)']]],
+  ['printwidth_22',['PrintWidth',['../classCustom_1_1CuCustomWndAPI_1_1PrintFontSettings.html#afdc869da8854bb152bb051be23f286f7',1,'Custom::CuCustomWndAPI::PrintFontSettings']]]
+];

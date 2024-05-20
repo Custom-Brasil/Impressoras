@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['opencashdrawer_0',['OpenCashDrawer',['../classcom_1_1custom_1_1wndapijwrap_1_1CuCustomWndDevice.html#a9791fb568a5c56504e475b932d9cceb0',1,'com::custom::wndapijwrap::CuCustomWndDevice']]],
+  ['openinstalledprinter_1',['OpenInstalledPrinter',['../classcom_1_1custom_1_1wndapijwrap_1_1CuCustomWndAPIJWrap.html#a0afa73f49884e98397e2c21e2f0a17cd',1,'com::custom::wndapijwrap::CuCustomWndAPIJWrap']]],
+  ['openprintercom_2',['OpenPrinterCOM',['../classcom_1_1custom_1_1wndapijwrap_1_1CuCustomWndAPIJWrap.html#aa36b0bb0fbbcbc3bda1b199f3a5c2590',1,'com.custom.wndapijwrap.CuCustomWndAPIJWrap.OpenPrinterCOM(COMPort cport)'],['../classcom_1_1custom_1_1wndapijwrap_1_1CuCustomWndAPIJWrap.html#a78b69326668eaa6ffedcd3893383d035',1,'com.custom.wndapijwrap.CuCustomWndAPIJWrap.OpenPrinterCOM(String strcport)']]],
+  ['openprintereth_3',['OpenPrinterETH',['../classcom_1_1custom_1_1wndapijwrap_1_1CuCustomWndAPIJWrap.html#a799b4349adcf5d20b8f4b20d015f9825',1,'com.custom.wndapijwrap.CuCustomWndAPIJWrap.OpenPrinterETH(String strPrinterIPAddress)'],['../classcom_1_1custom_1_1wndapijwrap_1_1CuCustomWndAPIJWrap.html#a673e719e76d139b3b062b0345f4babf3',1,'com.custom.wndapijwrap.CuCustomWndAPIJWrap.OpenPrinterETH(String strPrinterIPAddress, long dwPrinterIPPort)'],['../classcom_1_1custom_1_1wndapijwrap_1_1CuCustomWndAPIJWrap.html#a3657734334d59bc4541a7aebe2a869df',1,'com.custom.wndapijwrap.CuCustomWndAPIJWrap.OpenPrinterETH(ETHDevice ethdevice)']]],
+  ['openprinterusb_4',['OpenPrinterUSB',['../classcom_1_1custom_1_1wndapijwrap_1_1CuCustomWndAPIJWrap.html#a2739db138084a3968c61ab1331fcb809',1,'com::custom::wndapijwrap::CuCustomWndAPIJWrap']]]
+];

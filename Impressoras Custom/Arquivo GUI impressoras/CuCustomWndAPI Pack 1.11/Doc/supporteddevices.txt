@@ -1,0 +1,51 @@
+
+This is the list of the devices type supported by this API:
+
+- D-one
+- FUSION (from FW release 1.02 and higher)
+- Genius
+- GPL-Flex
+- K3
+- K3 Lottery
+- K80
+- KPM216H 200 dpi
+- KPM216H 300 dpi
+- KPM216H ETH 200 dpi
+- KPM216H ETH 300 dpi
+- KM216HC 200 dpi
+- KM216HC 300 dpi
+- KPM150H
+- KPM180H
+- KPM302H
+- KPM862
+- KUBE
+- KUBE ETHERNET
+- KUBEII SCANNER (from FW release 1.45 and higher)
+- KUBEII SCANNER 120 (from FW release 1.45 and higher)
+- KUBEII SCANNER VERIPRINT (from FW release 1.51 and higher)
+- KUBEIII SCANNER
+- MP Ranger
+- MODUS 3
+- MODUS3 X
+- MY3
+- MYPRINTER
+- mPLUS2
+- P3
+- PLUS2
+- PLUS4
+- Q1
+- Q3
+- TG02H
+- TG1260H
+- TG2460H
+- TG2460H-EJ
+- TG2480H
+- TL60
+- TL60-EJ
+- TL80
+- TPTCM60III
+- TPTCM112III
+- VK80
+- VKP80II
+- VKP80III
+- VKP80II ETHERNET

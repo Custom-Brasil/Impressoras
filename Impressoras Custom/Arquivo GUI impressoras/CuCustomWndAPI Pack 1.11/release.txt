@@ -1,0 +1,15 @@
+//******************************************************
+Folders
+//******************************************************
+Library : Libraries for C++, .NET, .NET6 and Java
+Doc : Libraries documentation
+Examples : Example software (C++, C# and Java) for the libraries
+Needed download : Needed download packets / tools
+
+//******************************************************
+Library and software
+//******************************************************
+CuCustomWndAPI.dll              rel 1.18
+CuCustomWndAPIWrp.dll           rel 0.1.0.6
+CuCustomWndAPIWrapNET6.dll		rel 0.1.0.6
+CuCustomWndAPIJWrap.jar         rel 1.0.4
