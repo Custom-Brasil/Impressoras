@@ -1,0 +1,24 @@
+C:\Users\s.giunti\Desktop\win form\bin\x86\Debug\net6.0-windows7.0\win form.exe
+C:\Users\s.giunti\Desktop\win form\bin\x86\Debug\net6.0-windows7.0\win form.deps.json
+C:\Users\s.giunti\Desktop\win form\bin\x86\Debug\net6.0-windows7.0\win form.runtimeconfig.json
+C:\Users\s.giunti\Desktop\win form\bin\x86\Debug\net6.0-windows7.0\win form.dll
+C:\Users\s.giunti\Desktop\win form\bin\x86\Debug\net6.0-windows7.0\win form.pdb
+C:\Users\s.giunti\Desktop\win form\bin\x86\Debug\net6.0-windows7.0\QRCoder.dll
+C:\Users\s.giunti\Desktop\win form\bin\x86\Debug\net6.0-windows7.0\System.Management.dll
+C:\Users\s.giunti\Desktop\win form\bin\x86\Debug\net6.0-windows7.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\s.giunti\Desktop\win form\bin\x86\Debug\net6.0-windows7.0\CuCustomWndAPIWrp.dll
+C:\Users\s.giunti\Desktop\win form\obj\x86\Debug\net6.0-windows7.0\win form.csproj.AssemblyReference.cache
+C:\Users\s.giunti\Desktop\win form\obj\x86\Debug\net6.0-windows7.0\Custom.DemoCuCustomWndAPIWrap.MainForm.resources
+C:\Users\s.giunti\Desktop\win form\obj\x86\Debug\net6.0-windows7.0\Custom.DemoCuCustomWndAPIWrap.SelectForm.resources
+C:\Users\s.giunti\Desktop\win form\obj\x86\Debug\net6.0-windows7.0\win form.csproj.GenerateResource.cache
+C:\Users\s.giunti\Desktop\win form\obj\x86\Debug\net6.0-windows7.0\win form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.giunti\Desktop\win form\obj\x86\Debug\net6.0-windows7.0\win form.AssemblyInfoInputs.cache
+C:\Users\s.giunti\Desktop\win form\obj\x86\Debug\net6.0-windows7.0\win form.AssemblyInfo.cs
+C:\Users\s.giunti\Desktop\win form\obj\x86\Debug\net6.0-windows7.0\win form.csproj.CoreCompileInputs.cache
+C:\Users\s.giunti\Desktop\win form\obj\x86\Debug\net6.0-windows7.0\win form.sourcelink.json
+C:\Users\s.giunti\Desktop\win form\obj\x86\Debug\net6.0-windows7.0\win form.csproj.Up2Date
+C:\Users\s.giunti\Desktop\win form\obj\x86\Debug\net6.0-windows7.0\win form.dll
+C:\Users\s.giunti\Desktop\win form\obj\x86\Debug\net6.0-windows7.0\refint\win form.dll
+C:\Users\s.giunti\Desktop\win form\obj\x86\Debug\net6.0-windows7.0\win form.pdb
+C:\Users\s.giunti\Desktop\win form\obj\x86\Debug\net6.0-windows7.0\win form.genruntimeconfig.cache
+C:\Users\s.giunti\Desktop\win form\obj\x86\Debug\net6.0-windows7.0\ref\win form.dll
